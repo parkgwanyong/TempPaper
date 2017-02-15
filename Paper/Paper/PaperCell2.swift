@@ -10,7 +10,9 @@ import UIKit
 
 class PaperCell : UITableViewCell   {
    
-    @IBOutlet weak var Title: UILabel!
     
+    @IBOutlet weak var Title: UILabel!
+
     @IBOutlet weak var Author: UILabel!
+
 }
